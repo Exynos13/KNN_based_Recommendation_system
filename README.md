@@ -9,4 +9,5 @@ Movielens Dataset which consists:
 -  Simple demographic info for the users (age, gender, occupation, zip)
 
 ## Implementation
-The model was able to was able to handle the data disparity problem by making up data based on the user similarity while also introducing the item’s popularity weight into the computation of similarity. Whereas for ne users the recommendataion by choosing the top most popular movie titiles by calculating the composite recommendation which is the product of the popularity of the movie and the mean rating. Thus presnting the user with the selection of top movies user might like. 
+The model was able to was able to handle the data disparity problem by making up data based on the user similarity while also introducing the item’s popularity weight into the computation of similarity. 
+Whereas for new users the recommendataion by choosing the top most popular movie titiles by calculating the composite recommendation which is the product of the popularity of the movie and the mean rating. Thus presnting the user with the selection of top movies user might like. 
